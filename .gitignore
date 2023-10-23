@@ -1,4 +1,5 @@
 # Logs
+secrtets.txt
 logs
 *.log
 npm-debug.log*
